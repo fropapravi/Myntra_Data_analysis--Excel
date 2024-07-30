@@ -115,6 +115,17 @@ City
 
 ![Segment](Photos/City.png)
 
+- Is there any regional variation in terms of product categories or sub-categories?
+
+|Row Labels	|West	|East	|Central	|South	|Grand Total|
+|------------|---------|---------|---------|---------|---|
+|Furniture|	707	|601	|481	|332|	2121|
+|Office Supplies|	1897|	1712|	1422|	995|	6026|
+|Technology	|599|	535	|420|	293	|1847|
+|Grand Total|	3203|	2848|	2323|	1620|	9994|
+
+![Segment](Photos/Regional.png)
+
 
 
 
