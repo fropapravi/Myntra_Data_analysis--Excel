@@ -9,8 +9,6 @@ Create Folllowing Reports:
 
 - Segment Report
 - Order Report
-- Product Report
-- Revenue Report
 
 ## Excel Operations
 Excel is used to explore and visulize data for small datasets.
