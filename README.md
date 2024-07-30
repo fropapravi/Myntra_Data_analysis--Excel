@@ -126,6 +126,49 @@ City
 
 ![Segment](Photos/Regional.png)
 
+## Ordere Report
+
+- What is the Average Order value AOV by customer segment and product category?
+
+|Row Labels	|Furniture	|Office Supplies	Technology	|Grand Total|
+|------|------|-------|-------|
+|Consumer	|351|116	|427|	224|
+|Corporate	|355|	127|	445	|234|
+|Home Office|	337	|115|	536	|241|
+|Grand Total|350|	119	|453	|230|
+
+
+|Furniture|	average sales|       
+|--------|----------|
+|Consumer	|351|
+|Corporate	|355|
+|Home Office |	337|
+
+![Report](Photos/Furniture.png)
+
+|Office Supplies|	average sales|
+|------|------|
+|Consumer	|116|
+|Corporate	|127|
+|Home Office|	115|
+
+![Report](Photos/office_supplier.png)
+
+|Technology	|average sales|
+|---------|-----------|
+|Consumer	|427|
+|Corporate	|445|
+|Home Office|	536|
+
+![Report](Photos/Average_sale.png)
+
+
+
+
+
+
+
+
 
 
 
