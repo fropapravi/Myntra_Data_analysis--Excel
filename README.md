@@ -99,7 +99,7 @@ States
 |Pennsylvania| 116511|
 |Grand Total|1193905|
 
-![Segment](Photos/City.png)
+![Segment](Photos/State.png)
 
 
 City
@@ -113,8 +113,8 @@ City
 |Philadelphia	|109077|
 |Grand Total	|773506|
 
+![Segment](Photos/City.png)
 
-![Segment](Photos/State.png)
 
 
 
