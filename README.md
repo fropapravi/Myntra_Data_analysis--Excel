@@ -64,6 +64,7 @@ Consumer	|1161401 |
 Corporate	|706146	
 Home Office	|429653|
 
+![Segment](Photos/Sum_of_sales.png)
 Profit segments
 
 |Row Labels|	Sum of Profit|
@@ -72,6 +73,7 @@ Profit segments
 |Corporate|	91979|
 |Home Office|	60299|
 
+![Segment](Photos/Sum_of_Profit.png)
 Quantity segments
 
 |Row Labels	| Sum of Quantity|
@@ -80,6 +82,7 @@ Quantity segments
 |Corporate	| 11608
 |Home Office |	6744
 
+![Segment](Photos/Sum_of_Quantity.png)
 
 
 
