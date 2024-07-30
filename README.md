@@ -86,6 +86,37 @@ Quantity segments
 
 ![Segment](Photos/Sum_of_Quantity.png)
 
+- What are the top States, and cities by sales volume?
+
+States 
+
+|Row Labels	|Sum of Sales|
+|-----------|--------|
+|California	|457687|
+|New York	| 310876|
+|Texas	| 170188|
+|Washington	| 138641 |
+|Pennsylvania| 116511|
+|Grand Total|1193905|
+
+![Segment](Photos/City.png)
+
+
+City
+	
+|Row Labels	|Sum of Sales|
+|---------|-----------|
+|New York City|	256368|
+|Los Angeles	|175851|
+|Seattle	|119540|
+|San Francisco|	112669|
+|Philadelphia	|109077|
+|Grand Total	|773506|
+
+
+![Segment](Photos/State.png)
+
+
 
 
 
