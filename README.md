@@ -55,7 +55,7 @@ Corporate	|706146	|91979	|11608|
 Home Office	|429653|	60298|	6744|
 Grand Total|	2297200|	286397|	37873|
 
-![Segment](Images/Segment Graph.png)
+![Segment](Photos/Segment_Graph.png)
 			
 Sales segments
 |Row Labels	| Sum of Sales |
